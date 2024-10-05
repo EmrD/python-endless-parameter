@@ -1,10 +1,10 @@
-# Flask API Service Starter
+# Python Function With Endless Parameter 
 
-This is a minimal Flask API service starter based on [Google Cloud Run Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service).
+This is a example to give endless parameter to a function in Python.
 
 ## Getting Started
 
-Server should run automatically when starting a workspace. To run manually, run:
+To run manually, run:
 ```sh
-./devserver.sh
+python main.py
 ```
